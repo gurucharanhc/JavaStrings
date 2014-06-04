@@ -2,7 +2,7 @@ package com.examples;
 
 import java.util.Arrays;
 
-public class intArrayToString {
+public class IntArrayToString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
