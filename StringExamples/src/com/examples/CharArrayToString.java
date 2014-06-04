@@ -8,7 +8,7 @@ import java.util.Arrays;
  * program to convert the char array to String
  *
  */
-public class charArrayToString {
+public class CharArrayToString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
